@@ -1,0 +1,5 @@
+{
+  "name": "DocEditor AI",
+  "description": "A modern, AI-powered document editor prototype featuring a dashboard, file management, and a rich editing interface.",
+  "requestFramePermissions": []
+}
